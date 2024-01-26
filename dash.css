@@ -1,0 +1,15 @@
+@import url(https://fonts.googleapis.com/css?family=Kumbh+Sans:100,200,300,regular,500,600,700,800,900);
+body {
+  font-family:Kumbh sans;
+  background-image: linear-gradient(to right, #1FAAB2 0%,#1FAAB2 20% , #FFF 20%, #FFF 100%);
+  min-height: 100vh;
+ width: flex;
+  height: flex;
+  justify-content: center;
+  display:flex;
+  flex-direction:column-reverse;
+  align-items:center;
+  position: relative;
+  padding-left: 35%;
+  font-size: 150%;
+}
